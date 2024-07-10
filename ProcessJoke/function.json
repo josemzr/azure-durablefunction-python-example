@@ -1,0 +1,9 @@
+{
+    "bindings": [
+        {
+            "name": "joke",
+            "type": "activityTrigger",
+            "direction": "in"
+        }
+    ]
+}
